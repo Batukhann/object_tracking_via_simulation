@@ -22,9 +22,15 @@ The Tracker w Vector Python file was written to track the vehicle by processing 
 There are scripts in the Helper Functions python file to draw graphs and perform various calculations.
 
 Required environment and library settings:
+
 -There should be drone named my_drone in airsim settings and car my_car in unreal engine environment.
+
 -OpenCV 4.5.5.64
+
 -Tornado 4.5.3
+
 -Numpy
+
 -MatPlotLib
+
 
