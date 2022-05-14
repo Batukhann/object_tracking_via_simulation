@@ -16,3 +16,15 @@ After the environment is established, the object to be tracked needs to be added
 
 At the same time, some parameters of the drone need to be adjusted. We shared the settings we use in the Settings folder.
 
+There are 3 scripts in the project. 
+The Location Tracker python file tracks the object by knowing the location of the vehicle. We created a dataset using this script.
+The Tracker w Vector Python file was written to track the vehicle by processing images.
+There are scripts in the Helper Functions python file to draw graphs and perform various calculations.
+
+Required environment and library settings
+There should be drone named my_drone in airsim settings and car my_car in unreal engine environment.
+OpenCV 4.5.5.64
+Tornado 4.5.3
+Numpy
+MatPlotLib
+
