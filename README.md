@@ -34,3 +34,12 @@ Required environment and library settings:
 -MatPlotLib
 
 You can access some of the labeled images from perspectives of both car and drone which are taken taken from 3 different environments during active object tracking via this link: https://drive.google.com/drive/folders/1oKed2BdvUYU-7xBA0QJrr1RnXW1IHx8m?usp=sharing
+
+Here, there are demo video links for our project.
+
+https://youtu.be/-2h-JcihP64
+
+https://www.youtube.com/watch?v=mO9WTHB3rrY
+
+https://www.youtube.com/watch?v=6TEduYcsRi8
+
