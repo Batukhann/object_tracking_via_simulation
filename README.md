@@ -50,3 +50,11 @@ Simulation in City Park environment:
 Simulation in Landscape Mountains environment:
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/-dByyUBq5nE/0.jpg)](http://www.youtube.com/watch?v=-dByyUBq5nE "Lanscape Mountains Tracking")
+
+
+Labeling:
+
+For labeling, we used the "Ultimate Labeling Tool", which has source codes on Github. Since we are tracking only one vehicle, we took the vehicle's id as 0. We output the labeling we made on the tool as a csv file. This csv file contains the frame number, center coordinates of the bounding box, width and height information.
+
+
+
