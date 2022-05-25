@@ -39,9 +39,9 @@ Here, there are demo video links for our project.
 
 https://youtu.be/-2h-JcihP64
 
-https://www.youtube.com/watch?v=mO9WTHB3rrY
-
-https://www.youtube.com/watch?v=6TEduYcsRi8
+Simulation in City Park environment:
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-mO9WTHB3rrY/0.jpg)](https://www.youtube.com/watch?v=mO9WTHB3rrY "City Park Tracking Test-1")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/-6TEduYcsRi8/0.jpg)](https://www.youtube.com/watch?v=6TEduYcsRi8 "City Park Tracking Test-2")
 
 Simulation in Landscape Mountains environment:
 
